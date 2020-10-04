@@ -6,7 +6,7 @@ I'm littlechin!
 
 ![littlechintw's github stats](https://github-readme-stats.vercel.app/api?username=littlechintw&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlechintw)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlechintw&layout=compact)
 
 <!--
 **littlechintw/littlechintw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
