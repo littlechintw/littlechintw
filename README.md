@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm littlechin!
+I'm littlechin! I like to code and I usually use Python to make projects!
+Also, I like to take photos.
+
+[My Website](https://littlechintw.github.io)
 
 ### GitHub
 
