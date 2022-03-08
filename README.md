@@ -22,10 +22,10 @@ I'm littlechin @ NTPU!
 <p align=center>
   <div align=center>
     <a href="https://github-readme-stats.vercel.app/api?username=littlechintw&show_icons=true&theme=dracula&hide_border=true" title="Go to Source">
-      <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=littlechintw&show_icons=true&theme=dracula&hide_border=true" alt="littlechintw" />
+      <img align="left" height=200 max-width=50% src="https://github-readme-stats.vercel.app/api?username=littlechintw&show_icons=true&theme=dracula&hide_border=true" alt="littlechintw" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=littlechintw&layout=compact" title="Go to Source">
-      <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlechintw&layout=compact&theme=dracula&hide_border=true" />
+      <img align="right" height=200 max-width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlechintw&layout=compact&theme=dracula&hide_border=true" />
     </a>
   </div>
 </p>
