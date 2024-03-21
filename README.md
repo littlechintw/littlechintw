@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I'm littlechin @ NTPU!
+I'm littlechin!
 
 - Website: [littlechin.tw](https://littlechintw.github.io)
 - Email: [me@littlechin.tw](mailto:me@littlechin.tw)
